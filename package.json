@@ -1,8 +1,8 @@
 {
-  "name": "nextjs",
+  "name": "dev-next-dashboard",
   "version": "0.1.0",
   "private": true,
-"scripts": {
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -15,13 +15,13 @@
     "@prisma/client": "^5.19.1",
     "@types/react-big-calendar": "^1.8.9",
     "moment": "^2.30.1",
+    "next": "^14.2.18",
     "next-cloudinary": "^6.13.0",
     "prisma": "^5.19.1",
+    "react": "^18",
     "react-big-calendar": "^1.13.2",
     "react-calendar": "^5.0.0",
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3",
+    "react-dom": "^18",
     "react-hook-form": "^7.52.2",
     "react-toastify": "^10.0.5",
     "recharts": "^2.12.7",
